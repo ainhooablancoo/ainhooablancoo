@@ -1,16 +1,26 @@
-### Hi there 👋
-
-<!--
-**ainhooablancoo/ainhooablancoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Derivado de "Desafío: ids estacionales"</title>
+        <style>
+         #summer {
+            background-color: red;
+        }
+        #winter {
+            background-color: yellow;
+        }
+            
+        </style>
+    </head>
+    <body>
+        
+        <h1>Olaf's favorite seasons</h1>
+        
+        <h2 id="summer">Summer</h2>
+        <p>He's a happy snowman, doing what frozen things do in summer.</p>
+        
+        <h2 id="winter">Winter</h2>
+        <p>He likes to stay in and cuddle</p>
+    </body>
+</html>
